@@ -1,75 +1,9 @@
-<<<<<<< HEAD
-# gmhat
-The Global Mental Health Assessment Tool (GMHAT) is a standardized, computer-assisted clinical interview used to detect and manage a wide range of mental disorders. Its primary goal is to help people including those without specialized mental health training, to provide comprehensive, and accurate mental health assessments in varied settings.
-=======
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> c3eb240 (Initialize project using Create React App)
+The Generalized Anxiety Disorder 7-item (GAD-7) is a widely used, evidence-based screening tool for anxiety. It consists of 7 simple questions about common anxiety symptoms over the past two weeks, such as nervousness, uncontrollable worry, and trouble relaxing. 
+The GAD-7 can be completed by a patient alone or with a healthcare professional's support. Because it is short, reliable, and easy to score, it is frequently used in both clinical and community settings to support early detection, track symptom severity over time, and guide treatment planning. 
+This tool provides a quick and private way to assess anxiety symptoms. After answering, the user can use the score to better understand their anxiety level, with specific cut-off points corresponding to minimal, mild, moderate, or severe anxiety. 
+Scoring and interpretation 
+0–4: Minimal anxiety
+5–9: Mild anxiety
+10–14: Moderate anxiety
+15–21: Severe anxiety 
+A score of 10 or greater is often used as a threshold to indicate probable generalized anxiety disorder, warranting further clinical evaluation. However, the GAD-7 also effectively screens for other anxiety disorders, including panic disorder, social anxiety disorder, and post-traumatic stress disorder.
